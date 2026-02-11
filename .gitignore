@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Environments
+.env
+.venv
+
+# Tooling
+.ruff_cache
+
+# Cached files
+cache
+*.db
